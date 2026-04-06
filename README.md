@@ -36,7 +36,7 @@ Backend zarządza użytkownikami i wydarzeniami za pomocą dwóch głównych kon
 ## Technologie
 
 - Frontend: **Vue.js**, **Vue Router**, **Axios**  
-- Backend: REST API  
+- Backend: REST API z ASP.NET
 - Autoryzacja: **JWT**
 
 ## Cel projektu
