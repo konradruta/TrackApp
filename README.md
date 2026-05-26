@@ -2,6 +2,21 @@
 
 TrackApp to aplikacja do zarządzania wydarzeniami, zbudowana jako SPA z frontendem w **Vue.js** i backendem REST API. Projekt jest podzielony na moduły odpowiedzialności, co ułatwia rozwój i utrzymanie kodu.
 
+### Backend
+```bash
+cd TrackAPI
+dotnet run --launch-profile https
+```
+API będzie dostępne pod adresem `https://localhost:7048`.
+
+### Frontend
+```bash
+cd TrackVue/client
+npm install
+npm run dev
+```
+Aplikacja będzie dostępna pod adresem `http://localhost:5174`
+
 ## Struktura frontendu (`TrackVue/client/src`)
 
 - **Components** – małe, reużywalne elementy interfejsu (np. nagłówki, stopki, formularze).  
