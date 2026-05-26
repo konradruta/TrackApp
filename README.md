@@ -2,6 +2,8 @@
 
 TrackApp to aplikacja do zarządzania wydarzeniami, zbudowana jako SPA z frontendem w **Vue.js** i backendem REST API. Projekt jest podzielony na moduły odpowiedzialności, co ułatwia rozwój i utrzymanie kodu.
 
+## Uruchomienie
+
 ### Backend
 ```bash
 cd TrackAPI
